@@ -1,0 +1,8 @@
+/* Definicija stila */
+.Navigacija-stil {
+  background-color: rgb(245, 241, 241);
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}

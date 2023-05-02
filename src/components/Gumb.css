@@ -1,0 +1,7 @@
+/* Definicija stila */
+.Gumb-stil {
+    background-color: rgb(245, 241, 241);
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
